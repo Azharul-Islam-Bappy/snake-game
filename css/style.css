@@ -24,8 +24,12 @@ body {
 
 .snake {
     background-color: green;
+    border-radius: 0.5rem;
+    
 }
 
+
 .food {
-    background-color: red;
+    background-color: rgb(233, 85, 85);
+    border-radius: 50%;
 }
